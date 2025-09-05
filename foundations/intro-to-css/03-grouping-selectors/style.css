@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.bgc
+{
+    background-color: black;
+    color: white;
+    border-color: grey;
+}
+.font
+{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 36px;
+}
+.bgc2
+{
+    background-color: yellow;
+    border-color: grey;
+}
