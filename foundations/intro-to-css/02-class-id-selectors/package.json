@@ -1,0 +1,12 @@
+{
+  "name": "02-class-id-selectors",
+  "version": "1.0.0",
+  "description": "Knowing how to add class and ID attributes to HTML elements, as well as use their respective selectors, is invaluable. It's important to practice using them.",
+  "main": "index.js",
+  "scripts": {
+  "start": "browser-sync start --server --files '*.html, *.css, *.js'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
